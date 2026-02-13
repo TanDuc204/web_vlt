@@ -1,0 +1,33 @@
+{
+  "recipientName": "Quỳnh",
+  "senderName": "Tấn",
+  "dateLabel": "14/02",
+  
+  "albumImages": [
+    { "url": "/images/1.jpg", "alt": "Khoảnh khắc đáng yêu 1" },
+    { "url": "/images/2.jpg", "alt": "Khoảnh khắc đáng yêu 2" },
+    { "url": "/images/3.jpg", "alt": "Khoảnh khắc đáng yêu 3" },
+    { "url": "/images/4.jpg", "alt": "Khoảnh khắc đáng yêu 4" },
+    { "url": "/images/5.jpg", "alt": "Khoảnh khắc đáng yêu 5" },
+    { "url": "/images/6.JPG", "alt": "Khoảnh khắc đáng yêu 6" }
+  ],
+  
+  "loveLetter": "Quỳnh ơi, hôm nay là Valentine nên anh muốn dành cho bé một góc nhỏ thật dễ thương để nói điều anh hay ngại nói trực tiếp.\n\nCảm ơn bé vì đã xuất hiện và làm những ngày bình thường của anh trở nên đáng yêu hơn.\n\nAnh thích cách bé cười, thích cả những lúc bé \"hơi khó ở\" nhưng vẫn đáng yêu lạ kỳ.\n\nỞ cạnh bé, anh thấy mình muốn cố gắng hơn một chút, tử tế hơn một chút, và bình tĩnh hơn một chút.\n\nAnh không hứa những điều to tát, nhưng anh hứa sẽ thương bé theo cách rõ ràng nhất mà anh có thể: lắng nghe bé, tôn trọng bé, và làm bé yên tâm.\n\nNếu Valentine là một cái cớ để nói \"anh yêu bé\" thêm lần nữa, thì anh xin dùng cái cớ đó thật nhiều.\n\nCảm ơn bé vì đã là Quỳnh của anh.",
+  
+  "shortWishes": [
+    "Bé là điều dễ thương nhất mà anh \"gặp đúng lúc\".",
+    "3 cái valentine rồi, anh vẫn thấy bé đáng yêu như ngày đầu.",
+    "Cười nhiều lên nha, anh thích thấy bé vui."
+  ],
+  
+  "finalLines": [],
+  
+  "secretMessages": [
+    "Chúc bé có một ngày valentine 14/2 thật hạnh phúc 💝",
+    "Yêu bé nhắm óoo 💕"
+  ],
+  
+  "ctaButtonText": "Bấm để nhận thêm một điều dễ thương 🎁",
+  "modalButtonAgain": "Mở thêm lần nữa ✨",
+  "modalButtonClose": "Đóng 💝"
+}
